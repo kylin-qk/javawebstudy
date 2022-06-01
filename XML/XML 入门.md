@@ -1,3 +1,7 @@
+
+
+[TOC]
+
 # XML 入门
 
 ### 1，概念与用途
@@ -146,3 +150,6 @@ XML 声明说明XML 文档的基本信息，包括版本号与字符集，写在
 ![image-20220530105708889](http://rblgz07nn.hd-bkt.clouddn.com/img/blogimage-20220530105708889.png)
 
 ![image-20220530111859081](http://rblgz07nn.hd-bkt.clouddn.com/img/blogimage-20220530111859081.png)
+
+
+
